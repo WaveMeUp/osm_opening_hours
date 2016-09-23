@@ -1,5 +1,11 @@
-# OSM Opening Hours
+# Description
 Parse opening_hours tag from OSM and returns string with current working hours depending on day of week.
+
+# Install
+
+```sh
+$ npm install osm_opening_hours
+```
 
 # Usage
 For now use can use only simple **parse** method, which returns string with current opening hours:
