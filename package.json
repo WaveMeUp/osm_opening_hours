@@ -7,5 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Viacheslav Osadchiy <wavemeup1@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaveMeUp/osm_opening_hours.git"
+  },
+  "keywords": [
+    "osm",
+    "opening_hours"
+  ],
+  "bugs": {
+    "url": "https://github.com/WaveMeUp/osm_opening_hours/issues"
+  },
+  "homepage": "https://github.com/WaveMeUp/osm_opening_hours#readme"
 }
